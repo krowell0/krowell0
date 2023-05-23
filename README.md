@@ -21,6 +21,8 @@ As a brand manager, I possess a strong understanding of effective brand strategy
 <!-- Replace with your top programming languages -->
 ## Education
 Bachelor of Science (BS) in Business Management, Fisher College
+
+
 Master of Professional Studies (MPS) in Digital Media, Northeastern University 
 
 
