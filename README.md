@@ -5,14 +5,13 @@
 <!-- Replace with your social media and contact information -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneilrowell)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/krowell0)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome&logoColor=white)](https://github.com/krowell0/KRowell.Github.io.portfolio.git))
 
 <!-- Replace with your preferred programming languages and technologies -->
 ## Skills and Technologies
 - Frontend Development: HTML & CSS
-- Backend Development: Node.js, Express.js
 - Databases:MySQL, Neon CRM, Salesforce CRM & Pardot
-- Other Tools: Mailchimp, Hootsuite and Google Analytics
+- Other Tools: Mailchimp, Hootsuite, Google Analytics, Tableau
 
 
 <!-- Replace with your top programming languages -->
@@ -20,9 +19,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/krowell0)
 
 <!-- Replace with your blog posts or latest project details -->
-## Blog Posts or Latest Projects
-- [Blog Post Title](https://yourblog.com/post1)
-- [Project Title](https://github.com/yourusername/project1)
+##  Latest Projects
+- [Tableau](https://public.tableau.com/app/profile/kenneil.rowell)
+
 
 <!-- Replace with your favorite programming quote -->
 ## Quote of the Day
