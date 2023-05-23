@@ -19,8 +19,10 @@ As a brand manager, I possess a strong understanding of effective brand strategy
 
 
 <!-- Replace with your top programming languages -->
-## Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide=jupyter%20notebook&langs_count=6&exclude_repo=repo1,repo2)](https://github.com/krowell0)
+## Education
+Bachelor of Science (BS) in Business Management, Fisher College
+Master of Professional Studies (MPS) in Digital Media, Northeastern University 
+
 
 
 <!-- Replace with your blog posts or latest project details -->
