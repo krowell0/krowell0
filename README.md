@@ -16,7 +16,8 @@
 
 <!-- Replace with your top programming languages -->
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/krowell0)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide=jupyter%20notebook&langs_count=6&exclude_repo=repo1,repo2)](https://github.com/krowell0)
+
 
 <!-- Replace with your blog posts or latest project details -->
 ##  Latest Projects
